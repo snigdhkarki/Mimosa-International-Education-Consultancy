@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mimosa-International-Education-Consultancy/static/css/main.83b5dced.chunk.css",
-    "main.js": "/Mimosa-International-Education-Consultancy/static/js/main.ec4e0e6b.chunk.js",
-    "main.js.map": "/Mimosa-International-Education-Consultancy/static/js/main.ec4e0e6b.chunk.js.map",
+    "main.js": "/Mimosa-International-Education-Consultancy/static/js/main.c0508bee.chunk.js",
+    "main.js.map": "/Mimosa-International-Education-Consultancy/static/js/main.c0508bee.chunk.js.map",
     "runtime-main.js": "/Mimosa-International-Education-Consultancy/static/js/runtime-main.93ca7525.js",
     "runtime-main.js.map": "/Mimosa-International-Education-Consultancy/static/js/runtime-main.93ca7525.js.map",
     "static/js/2.f0742ee7.chunk.js": "/Mimosa-International-Education-Consultancy/static/js/2.f0742ee7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.93ca7525.js",
     "static/js/2.f0742ee7.chunk.js",
     "static/css/main.83b5dced.chunk.css",
-    "static/js/main.ec4e0e6b.chunk.js"
+    "static/js/main.c0508bee.chunk.js"
   ]
 }
