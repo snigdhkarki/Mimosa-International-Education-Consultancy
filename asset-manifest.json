@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mimosa-International-Education-Consultancy/static/css/main.83b5dced.chunk.css",
-    "main.js": "/Mimosa-International-Education-Consultancy/static/js/main.ddf85c34.chunk.js",
-    "main.js.map": "/Mimosa-International-Education-Consultancy/static/js/main.ddf85c34.chunk.js.map",
-    "runtime-main.js": "/Mimosa-International-Education-Consultancy/static/js/runtime-main.93ca7525.js",
-    "runtime-main.js.map": "/Mimosa-International-Education-Consultancy/static/js/runtime-main.93ca7525.js.map",
-    "static/js/2.807ebddb.chunk.js": "/Mimosa-International-Education-Consultancy/static/js/2.807ebddb.chunk.js",
-    "static/js/2.807ebddb.chunk.js.map": "/Mimosa-International-Education-Consultancy/static/js/2.807ebddb.chunk.js.map",
-    "index.html": "/Mimosa-International-Education-Consultancy/index.html",
-    "static/css/main.83b5dced.chunk.css.map": "/Mimosa-International-Education-Consultancy/static/css/main.83b5dced.chunk.css.map",
-    "static/js/2.807ebddb.chunk.js.LICENSE.txt": "/Mimosa-International-Education-Consultancy/static/js/2.807ebddb.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.83b5dced.chunk.css",
+    "main.js": "/static/js/main.608ba1e4.chunk.js",
+    "main.js.map": "/static/js/main.608ba1e4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48ef0f6f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48ef0f6f.js.map",
+    "static/js/2.807ebddb.chunk.js": "/static/js/2.807ebddb.chunk.js",
+    "static/js/2.807ebddb.chunk.js.map": "/static/js/2.807ebddb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.807ebddb.chunk.js.LICENSE.txt": "/static/js/2.807ebddb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93ca7525.js",
+    "static/js/runtime-main.48ef0f6f.js",
     "static/js/2.807ebddb.chunk.js",
     "static/css/main.83b5dced.chunk.css",
-    "static/js/main.ddf85c34.chunk.js"
+    "static/js/main.608ba1e4.chunk.js"
   ]
 }
