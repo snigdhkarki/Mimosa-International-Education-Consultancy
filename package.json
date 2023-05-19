@@ -1,7 +1,7 @@
 {
   "name": "landingpage-react-template",
   "private": true,
-  "homepage": "http://snigdhkarki.github.io/Mimosa-International-Education-Consultancy",
+  "homepage": "http://snigdhkarki.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
